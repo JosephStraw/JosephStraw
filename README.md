@@ -1,5 +1,3 @@
-There will be a variety of languages used on this page, with a focus on Lua. For now.
-
 :)
 
 <!---

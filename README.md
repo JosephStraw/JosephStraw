@@ -1,4 +1,4 @@
-- Currently an undergraduate studying for a BSc in Computer Science
+- Currently an undergraduate student studying for a BSc in Computer Science
 - Studying Java, but my heart belongs with C
 - Web development is fun too
 

@@ -3,7 +3,7 @@
   ---
   
 - Final year CS student at Bangor University
-- Developer of PAI
+- Developer of the PAI Framework
 - Dabbler in Godot
 <!---
 JosephStraw/JosephStraw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
